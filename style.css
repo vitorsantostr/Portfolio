@@ -12,8 +12,10 @@
 
        body {
            font-family: 'FuturaLT', sans-serif;
-           margin: 0;
-           padding: 0;
+           min-width:300px;
+           max-width:1000px;
+           margin: auto;
+           padding: auto;
            background-image: linear-gradient(to bottom, #05141B, #12202D, #233543, #4A5C6A, #939EA2, #CCD0CF);
            color: rgb(235, 235, 235);
            background-attachment: fixed;
